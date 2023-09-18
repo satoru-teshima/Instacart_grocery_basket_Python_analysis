@@ -6,6 +6,10 @@ Instcart is an online grocery store operating via a mobile app. While they have 
 ---
 The goal is to conduct in-depth data analysis to gain insights into the diverse customer personas at Instacart and their distinct purchasing behaviors. The aim is to uncover meaningful patterns and clusters within the data through exploratory analysis to optimize Instacart's overall customer experience.
 
+## Background
+---
+CareerFoundry created this project to teach the fundamentals of Python and its associated libraries, including pandas, NumPy, and seaborn.
+
 ## Data
 ---
 In order to solve their business questions, we were provided with following data. 
