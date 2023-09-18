@@ -2,15 +2,13 @@
 Instcart is an online grocery store operating via a mobile app. While they have a history of strong sales, they aim to gain deeper insights into their sales patterns.
 
 ## Objective
----
 The goal is to conduct in-depth data analysis to gain insights into the diverse customer personas at Instacart and their distinct purchasing behaviors. The aim is to uncover meaningful patterns and clusters within the data through exploratory analysis to optimize Instacart's overall customer experience.
 
 ## Background
----
 CareerFoundry created this project to teach the fundamentals of Python and its associated libraries, including pandas, NumPy, and seaborn.
 
 ## Data
----
+
 In order to solve their business questions, we were provided with following data. 
 
 - Orders
@@ -20,7 +18,7 @@ In order to solve their business questions, we were provided with following data
 - Departments
 
 ## Folders
----
+
 The project was separated into these following folders.
 - 01 Project Management
 -- Contains project brief 
