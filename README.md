@@ -1,5 +1,4 @@
 # Insta Cart Grocery Basket Python Analysis
-***
 Instcart is an online grocery store operating via a mobile app. While they have a history of strong sales, they aim to gain deeper insights into their sales patterns.
 
 ## Objective
